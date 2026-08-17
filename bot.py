@@ -4,7 +4,7 @@ import requests
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "8732910407:AAFH5C8tg_WM81irgED45A0pLaUx-bN4uRA"
+BOT_TOKEN = "8847925560:AAE9Zdr35Dj5mkqpROoK-ksW4SrTSNwrRMo"
 bot = telebot.TeleBot(BOT_TOKEN)
 user_data = {}
 
